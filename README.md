@@ -5,7 +5,6 @@ Minecraft 伺服器架設工具
 
 此程式非常方便! 只需動動手指頭，即可完成 Minecraft 伺服器架設!  
 此程式為 Evan 小饅頭開發，希望可以造福想架設自己的伺服器卻又不知道從何開始的你 :D  
-歡迎各路大老幫忙修改、維護、新增功能 :3  
 
 ![螢幕擷取畫面 2025-06-21 204748](https://github.com/user-attachments/assets/93ceecc2-92be-4d42-b4e3-9c5c643175fb)
 
@@ -34,21 +33,18 @@ Minecraft 伺服器架設工具
 - 備份列表即時顯示
 - 自動管理備份資料夾  
 
-![BackupPage示意圖](https://github.com/user-attachments/assets/backuppage.png)
 
 ### 4️⃣ 伺服器設定 SettingsPage
 - 伺服器 Port 設定
 - Windows 防火牆自動開放指定 Port
 - 即時顯示 Port 開放狀態  
 
-![SettingsPage示意圖](https://github.com/user-attachments/assets/settingspage.png)
 
 ### 5️⃣ 關於我們 / Contributors AboutPage
 - 顯示工具名稱、版本號與原作者
 - 貢獻者名單（含 Evan 小饅頭與聖典騎士）
 - 直接點擊即可開啟 YouTube 頻道連結  
 
-![AboutPage示意圖](https://github.com/user-attachments/assets/aboutpage.png)
 
 ### 6️⃣ 技術特色
 - 完整整合 PaperMC 與 Java 自動下載管理
