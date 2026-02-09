@@ -25,8 +25,6 @@ Minecraft 伺服器架設工具
 - 伺服器啟動 / 停止按鈕
 - 伺服器狀態即時顯示  
 
-![CorePage示意圖](https://github.com/user-attachments/assets/corepage.png)
-
 ### 3️⃣ 世界備份 BackupPage
 - 一鍵建立備份
 - 一鍵還原備份
